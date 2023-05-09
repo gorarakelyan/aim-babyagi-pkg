@@ -1,6 +1,6 @@
 # The first Aim package for BabyAGI observability
 
-1. Checkout to `feature/experimental-app` branch in the aim
+1. Checkout to `feature/experimental-app` branch in Aim
 2. Clone this repo
 3. Run `aim up --app babyagi` in the root dir
 
