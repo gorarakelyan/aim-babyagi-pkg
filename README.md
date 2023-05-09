@@ -5,10 +5,13 @@
 3. Run `aim up --app babyagi` in the root dir
 
 ### main.py
-<img width="1740" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/b9640b4c-7705-4d44-b1db-2c2ab70e48f0">
+
+<img width="1738" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/ecef16fc-53ba-4f07-8065-d58447ced170">
 
 ### side by side comparison
-<img width="1738" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/98550e41-c7d2-4311-8f7d-672b0937b845">
+
+<img width="1736" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/bd39fd0d-7cef-4e08-93bc-5a8dcf686e33">
 
 ### individual exection
-<img width="1741" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/fcdb6034-ca4f-4eb3-869a-c5faaf4afe98">
+
+<img width="1742" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/f984e844-4ed4-4c38-aaab-24fc4732743d">
