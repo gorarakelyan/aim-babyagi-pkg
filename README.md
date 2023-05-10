@@ -12,6 +12,10 @@
 
 <img width="1736" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/bd39fd0d-7cef-4e08-93bc-5a8dcf686e33">
 
-### individual exection
+### individual execution
+
+<img width="1400" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/2683eefd-ab33-4c97-9ae9-10415b292380">
+
+### individual execution dashboard
 
 <img width="1742" alt="image" src="https://github.com/gorarakelyan/aim-babyagi-pkg/assets/13848158/f984e844-4ed4-4c38-aaab-24fc4732743d">
