@@ -1,5 +1,13 @@
 # The first Aim package for BabyAGI observability
 
+## About 
+
+This Aim package helps to monitor and observe BabyAGYI executions.
+
+[BabyAGI](https://github.com/yoheinakajima/babyagi) is one of the most popular aunonomous AI agents.
+
+## Run
+
 1. Checkout to `feature/experimental-app` branch in Aim
 2. Clone this repo
 3. Run `aim up --app babyagi` in the root dir
