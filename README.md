@@ -8,7 +8,7 @@ This Aim package helps to monitor and observe BabyAGYI executions.
 
 ## Run
 
-1. Checkout to `feature/experimental-app` branch in Aim
+1. Install Aim from the source (branch: `feature/experimental-app`)
 2. Clone this repo
 3. Run `aim up --app babyagi` in the root dir
 
